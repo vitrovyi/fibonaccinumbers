@@ -17,5 +17,7 @@ if (number1 > number2) {
     result = number2;
 }
 
+var output = "Your fibonacci number is " + result;
+
 console.log(result);
-document.write(result);
+document.write(output);
